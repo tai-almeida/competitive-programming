@@ -42,7 +42,7 @@ class ArvoreBinariaBusca {
         return raiz;
     }
 
-    void prefixo(No* no, vector<int>& ordem) {
+    void prefixo(No* no, vector<int>&   ordem) {
         if(no != nullptr) {
             ordem.push_back(no->valor);
             prefixo(no->esq, ordem);
