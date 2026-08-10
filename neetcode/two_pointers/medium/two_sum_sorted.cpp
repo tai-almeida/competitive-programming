@@ -8,16 +8,18 @@ public:
     vector<int> twoSum(vector<int>& numbers, int target) {
         int numbers_len = numbers.size();
         vector<int> indices(2, 0);
+        
 
         int left = 0, right = numbers_len - 1;
         while(left < right) {
-            if(numbers[left] + numbers[right] == target) {
+            int sum = numbers[left] + numbers[right];
+            if(sum == target) {
                 indices[0] = left + 1;
                 indices[1] = right + 1;
                 return indices;
-            } else if(numbers[left] + numbers[right] > target) {
+            } else if(sum > target) {
                 right--;
-            } else if(numbers[left] + numbers[right] < target) {
+            } else {
                 left++;
             }
         }
