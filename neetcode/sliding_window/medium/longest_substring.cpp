@@ -9,7 +9,7 @@ public:
     int lengthOfLongestSubstring(string s) {
         unordered_set<char> seen;
         int len = s.size(), max_len = 0, left=0, right = 1, curr_len = 0;
-        if(s[0]) {
+        if(!s.empty()) {
             seen.insert(s[0]);
             curr_len++;
             max_len = 1;
