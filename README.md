@@ -16,7 +16,7 @@ This directory contains 3 lists of problems I have solved in the Algorithm Analy
 - Sorting Algorithms
 - Space and Time Complexity
 
-2. [Programming Challenges I](./mc521)
+### 2. [Programming Challenges I](./mc521)
 
 This directory contains 9 programming contests from **Programming Challenges I**, a course I took at UNICAMP. The problems cover topics such as:
 
