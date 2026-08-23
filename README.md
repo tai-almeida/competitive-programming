@@ -4,7 +4,7 @@ This repository is a collection of coding problems I have solved, as a way to pr
 
 
 ## Repository Organization
-In this repo, I have problems I have solved through various contexts.
+In this repo, I have problems I have solved in various contexts.
 
 ### 1. [Algorithm Analysis and Projects I](./algorithm_project_analysis_I)
 
