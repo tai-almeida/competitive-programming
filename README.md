@@ -28,7 +28,7 @@ This directory contains 9 programming contests from **Programming Challenges I**
 
 ### 3. [NeetCode](./neetcode)
 
-This directory contains the problems I have solved so far, while following the [Neetcode 150](https://neetcode.io/roadmap), focused on preparing for coding interviews. The topics explored are:
+This directory contains the problems I have solved so far, while following the [Neetcode 150](https://neetcode.io/roadmap), focused on preparing for coding interviews.
 
 **Completed: 24/150**
 
@@ -40,22 +40,6 @@ This directory contains the problems I have solved so far, while following the [
 | Stack | 5 / 6 |
 | Binary Search | 3 / 7 |
 
-- Arrays & Hashing
-- Stack
-- Two Pointers
-- Binary Search
-- Sliding Window
-- Linked List
-- Trees
-- Tries
-- Backtracking
-- Heap/Priority Queue
-- Intervals
-- Greedy
-- Graphs
-- Dynamic Programming (1D and 2D)
-- Bit Manipulation
-- Math & Geometry
 
 
 
