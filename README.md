@@ -20,7 +20,7 @@ In this repo, I have problems I have solved through various contexts.
 - Graphs Algorithms
 - Dynamic Programming
 
-3. neetcode: This directory contains the problems I have solved until now, while following the (150 Neetcode Roadmap)[https://neetcode.io/roadmap], focused on coding interviews. The topics explored are:
+3. neetcode: This directory contains the problems I have solved until now, while following the [150 Neetcode Roadmap](https://neetcode.io/roadmap), focused on coding interviews. The topics explored are:
 - Arrays & Hashing
 - Stack
 - Two Pointers
