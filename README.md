@@ -1,11 +1,14 @@
 # Competitive Programming
 
-This repository is a collection of coding problems I have solved, as a form of practicing my problem solving abilities and improve as a Software Engineer :)
+This repository is a collection of coding problems I have solved, as a way to practice my problem-solving skills and improve as a software engineer :)
+
 
 ## Repository Organization
 In this repo, I have problems I have solved through various contexts.
 
-1. algorithm_project_analysis_I: This directory contains 3 lists of problems I have solved in the Algorithms' Analysis and Projects I class, that I did in UNICAMP, where I solved problems in the following topics:
+### 1. [Algorithm Analysis and Projects I](./algorithm_project_analysis_I)
+
+This directory contains 3 lists of problems I have solved in the Algorithm Analysis and Projects I class, that I did in UNICAMP, where I solved problems in the following topics:
 - Divide and Conquer
 - Recursion
 - Dynamic Programming
@@ -13,14 +16,30 @@ In this repo, I have problems I have solved through various contexts.
 - Sorting Algorithms
 - Space and Time Complexity
 
-2. mc521: This directory contains 9 contests with the problems I solved in the Programming Challenges I, also a class I did in UNICAMP, exploring the following topics:
+2. [Programming Challenges I](./mc521)
+
+This directory contains 9 programming contests from **Programming Challenges I**, a course I took at UNICAMP. The problems cover topics such as:
+
 - Greedy Algorithms
 - Data Structures
 - Sorting Algorithms
-- Graphs Algorithms
+- Graph Algorithms
 - Dynamic Programming
 
-3. neetcode: This directory contains the problems I have solved until now, while following the [150 Neetcode Roadmap](https://neetcode.io/roadmap), focused on coding interviews. The topics explored are:
+### 3. [NeetCode](./neetcode)
+
+This directory contains the problems I have solved so far, while following the [Neetcode 150](https://neetcode.io/roadmap), focused on preparing for coding interviews. The topics explored are:
+
+**Completed: 24/150**
+
+| Topic | Progress |
+|---|---:|
+| Arrays & Hashing | 6 / 9 |
+| Two Pointers | 3 / 5 |
+| Sliding Window | 4 / 6 |
+| Stack | 5 / 6 |
+| Binary Search | 3 / 7 |
+
 - Arrays & Hashing
 - Stack
 - Two Pointers
@@ -37,4 +56,6 @@ In this repo, I have problems I have solved through various contexts.
 - Dynamic Programming (1D and 2D)
 - Bit Manipulation
 - Math & Geometry
+
+
 
